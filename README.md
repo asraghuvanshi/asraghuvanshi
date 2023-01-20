@@ -21,9 +21,6 @@
     - 💬 Ask me about **Java , Kotlin , Swift, Android**
 
     - ✉️  You can reach me **asraghuvanshi52@gmail.com**
-    
-    - 🌐  LinkedIn <a href="https://www.linkedin.com/in/amit-raghuvanshi-913068261/" alt="account removed">LinkedIn Account</a>
-
 
 </body>
 
