@@ -19,7 +19,7 @@
   - 🌱 I’m currently learning **React Js, Swift ,Node**
 
   - 💬 Ask me about **Java , Kotlin , Swift, Android**
-      <img align="right" src="https://dl.dropbox.com/s/uga02i4gll5c1l4/as.jpg?" alt="asraghuvanshi" height="300"width="300"/>
+       <p align="left"><img src="https://dl.dropbox.com/s/uga02i4gll5c1l4/as.jpg?" alt="asraghuvanshi" height="300"width="300"/> </p>
 
 
   - ✉️ You can reach me **asraghuvanshi52@gmail.com**
