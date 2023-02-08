@@ -101,7 +101,7 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&"
       alt="asraghuvanshi" /></p>
-    <img align="center" src="./as.jpg" alt="asraghuvanshi" />
+<!--     <img align="center" src="./as.jpg" alt="asraghuvanshi" /> -->
 
 </body>
 
