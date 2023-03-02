@@ -16,9 +16,9 @@
         src="https://github-profile-trophy.vercel.app/?username=asraghuvanshi52" alt="asraghuvanshi52" /></a>
   </p>
 
-  - 🌱 I’m currently learning **React Js, Swift ,Node**
+  - 🌱 I’m currently learning **React Js,ReactNative*
 
-  - 💬 Ask me about **Java , Kotlin , Swift, Android**
+  - 💬 Ask me about **Java , Swift, Android**
 
   - ✉️ You can reach me **asraghuvanshi52@gmail.com**
 
