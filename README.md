@@ -8,7 +8,7 @@
 
 <body>
   <h1 align="center">Hi , This is Amit (Software Developer)</h1>
-  <h3> <b> AI Evangelist and Python Enthisiast </b> i am passionate about learning new technologies and interested in electronics Arduino, Raspberry PI, Micro-controllers </h3>
+  <h3> <b> AI Evangelist and Python Enthisiast </b> i am passionate about learning technologies interested in electronics Arduino, Raspberry PI, Micro-controllers and embedded systems </h3>
   <p align="left"> <img
       src="https://komarev.com/ghpvc/?username=asraghuvanshi52&label=Profile%20views&color=0e75b6&style=flat"
       alt="asraghuvanshi52" /> </p>
