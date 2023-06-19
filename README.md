@@ -5,7 +5,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-
 <body>
   <h1 align="center">Hi , This is Amit</h1>
   <h3>Passionate about learning technologies interested in electronics Arduino, Raspberry PI, Micro-controllers and embedded systems </h3>
