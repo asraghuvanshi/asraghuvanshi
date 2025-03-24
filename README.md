@@ -1,167 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
+# Hi, I'm Amit 👋
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile</title>
-    <style>
-        /* Adding some animation effects */
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
+I'm a passionate iOS Developer with over 2 years of experience in building sleek and user-friendly applications using Swift. I am constantly learning new technologies and keeping up with the latest trends in mobile development. My interests extend to electronics, microcontrollers, and embedded systems. I love working on projects that challenge my problem-solving skills and push my creative boundaries.
 
-        h1 {
-            animation: fadeIn 2s ease-in-out;
-        }
+![Profile Views](https://komarev.com/ghpvc/?username=asraghuvanshi52&label=Profile%20views&color=0e75b6&style=flat)
 
-        h3 {
-            animation: slideIn 2s ease-in-out;
-        }
+[![Trophy](https://github-profile-trophy.vercel.app/?username=asraghuvanshi52)](https://github.com/ryo-ma/github-profile-trophy)
 
-        /* Keyframes for the animations */
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-            }
-            to {
-                opacity: 1;
-            }
-        }
+## 🚀 About Me
 
-        @keyframes slideIn {
-            from {
-                transform: translateY(-50px);
-                opacity: 0;
-            }
-            to {
-                transform: translateY(0);
-                opacity: 1;
-            }
-        }
+- 🌱 **Currently Learning**: SwiftUI, Combine, and Core Data to build more powerful and efficient apps.
+- 💬 **Ask me about**: iOS Development, Swift, UIKit, SwiftUI, Java, Android, Firebase, and REST APIs.
+- ✉️ **Reach me at**: [asraghuvanshi52@gmail.com](mailto:asraghuvanshi52@gmail.com)
 
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
+## 🌐 Connect with Me
 
-        ul li {
-            margin: 10px 0;
-            font-size: 18px;
-            animation: fadeIn 2s ease-in-out;
-        }
+- [GitHub](https://github.com/asraghuvanshi52)
+- [LinkedIn](https://www.linkedin.com/in/asraghuvanshi/)
 
-        p img {
-            transition: transform 0.3s ease;
-        }
+## 🛠️ Languages and Tools
 
-        p img:hover {
-            transform: scale(1.1);
-        }
+Here are some of the technologies and tools I use and love:
 
-        /* Animating the icons */
-        .icon-container a {
-            margin: 0 15px;
-            display: inline-block;
-            animation: fadeIn 2s ease-in-out;
-        }
+![Swift](https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg) 
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?logo=Xcode&logoColor=white) 
+![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) 
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) 
+![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+![SQLite](https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FF5C8D?logo=swift&logoColor=white)
 
-        .icon-container img {
-            width: 40px;
-            height: 40px;
-            transition: transform 0.3s ease;
-        }
+## 📊 Stats
 
-        .icon-container img:hover {
-            transform: scale(1.2);
-        }
+I actively contribute to open-source projects, and here are some of my GitHub stats:
 
-        /* Stats animation */
-        .stats-container {
-            animation: fadeIn 2s ease-in-out;
-        }
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&locale=en)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi)
 
-        .github-stats {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            margin-top: 20px;
-        }
-    </style>
-</head>
+## 💡 My Contributions
 
-<body>
-    <h1>Hi, This is Amit</h1>
-    <h3>Passionate about learning technologies, interested in electronics, Arduino, Raspberry Pi, microcontrollers, and embedded systems.</h3>
-    
-    <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=asraghuvanshi52&label=Profile%20views&color=0e75b6&style=flat" alt="asraghuvanshi52" />
-    </p>
-    
-    <p align="left">
-        <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img src="https://github-profile-trophy.vercel.app/?username=asraghuvanshi52" alt="asraghuvanshi52" />
-        </a>
-    </p>
+I believe in the power of collaboration and open-source contributions. Here's a glimpse at my contributions to various projects:
 
-    <ul>
-        <li>🌱 I’m currently exploring more about <strong>Swift</strong></li>
-        <li>💬 Ask me about <strong>Java, Swift, Android</strong></li>
-        <li>✉️ You can reach me at <strong>asraghuvanshi52@gmail.com</strong></li>
-    </ul>
+![GitHub Contributors](https://contrib.rocks/image?repo=asraghuvanshi52)
 
-    <h3>Connect with me:</h3>
+## 🎯 My Commit Stats
 
-    <h3>Languages and Tools:</h3>
-    <div class="icon-container">
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
-        </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
-        </a>
-        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
-        </a>
-        <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" />
-        </a>
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
-        </a>
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" />
-        </a>
-        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" />
-        </a>
-        <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" />
-        </a>
-        <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" />
-        </a>
-    </div>
+Here’s a detailed breakdown of my commits and contributions over time:
 
-    <div class="github-stats">
-        <div class="stats-container">
-            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact" alt="asraghuvanshi" />
-        </div>
+![Commit Stats](https://github-readme-activity-graph.cyclic.app/graph?username=asraghuvanshi52&bg_color=000000&color=6e40c9&line=6e40c9&point=ffffff&area=true)
 
-        <div class="stats-container">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&locale=en" alt="asraghuvanshi" />
-        </div>
+## 🔥 GitHub Streak
 
-        <div class="stats-container">
-            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&" alt="asraghuvanshi" />
-        </div>
-    </div>
+I enjoy consistently learning and pushing myself every day. Here’s my current streak:
 
-</body>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi)
 
-</html>
+## 🏆 Achievements & Badges
+
+I have earned several badges for my contributions to open-source, and for my consistent development work.
+
+[![Open Source Contributions](https://img.shields.io/badge/Open%20Source%20Contributions-100+-brightgreen)](https://github.com/asraghuvanshi52)
+
+---
+
+### 🤖 Fun Fact
+
+I’m passionate about learning and building new things, from electronics like Arduino and Raspberry Pi to creating the next big mobile app. I enjoy working on projects that merge hardware and software.
+
+---
+
+### 📅 Upcoming Projects
+
+I’m currently working on several iOS apps, exploring **SwiftUI** to build better user interfaces, and diving into **Core Data** for local storage solutions.
+
