@@ -1,95 +1,166 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+    <style>
+        /* Adding some animation effects */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+
+        h1 {
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        h3 {
+            animation: slideIn 2s ease-in-out;
+        }
+
+        /* Keyframes for the animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes slideIn {
+            from {
+                transform: translateY(-50px);
+                opacity: 0;
+            }
+            to {
+                transform: translateY(0);
+                opacity: 1;
+            }
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            margin: 10px 0;
+            font-size: 18px;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        p img {
+            transition: transform 0.3s ease;
+        }
+
+        p img:hover {
+            transform: scale(1.1);
+        }
+
+        /* Animating the icons */
+        .icon-container a {
+            margin: 0 15px;
+            display: inline-block;
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        .icon-container img {
+            width: 40px;
+            height: 40px;
+            transition: transform 0.3s ease;
+        }
+
+        .icon-container img:hover {
+            transform: scale(1.2);
+        }
+
+        /* Stats animation */
+        .stats-container {
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        .github-stats {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+    </style>
 </head>
+
 <body>
-  <h1 align="center">Hi , This is Amit</h1>
-  <h3>Passionate about learning technologies interested in electronics Arduino, Raspberry PI, Micro-controllers and embedded systems </h3>
-  <p align="left"> <img
-      src="https://komarev.com/ghpvc/?username=asraghuvanshi52&label=Profile%20views&color=0e75b6&style=flat"
-      alt="asraghuvanshi52" /> </p>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-        src="https://github-profile-trophy.vercel.app/?username=asraghuvanshi52" alt="asraghuvanshi52" /></a>
-  </p>
+    <h1>Hi, This is Amit</h1>
+    <h3>Passionate about learning technologies, interested in electronics, Arduino, Raspberry Pi, microcontrollers, and embedded systems.</h3>
+    
+    <p align="left">
+        <img src="https://komarev.com/ghpvc/?username=asraghuvanshi52&label=Profile%20views&color=0e75b6&style=flat" alt="asraghuvanshi52" />
+    </p>
+    
+    <p align="left">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=asraghuvanshi52" alt="asraghuvanshi52" />
+        </a>
+    </p>
 
-  - 🌱 I’m currently exploring more about **Swift**
+    <ul>
+        <li>🌱 I’m currently exploring more about <strong>Swift</strong></li>
+        <li>💬 Ask me about <strong>Java, Swift, Android</strong></li>
+        <li>✉️ You can reach me at <strong>asraghuvanshi52@gmail.com</strong></li>
+    </ul>
 
-  - 💬 Ask me about **Java , Swift, Android**
+    <h3>Connect with me:</h3>
 
-  - ✉️ You can reach me **asraghuvanshi52@gmail.com**
+    <h3>Languages and Tools:</h3>
+    <div class="icon-container">
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+        </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" />
+        </a>
+        <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" />
+        </a>
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" />
+        </a>
+        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" />
+        </a>
+        <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" />
+        </a>
+        <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" />
+        </a>
+        <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" />
+        </a>
+    </div>
 
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-    <a href="https://linkedin.com/in/amit-raghuvanshi-913068261/" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-        alt="amit-raghuvanshi-913068261/" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/asraghuvanshi52" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-        alt="https://www.hackerrank.com/asraghuvanshi52" height="30" width="40" /></a>
-    <a href="https://leetcode.com/asraghuvanshi52/" target="blank"><img align="center"
-        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-        alt="https://leetcode.com/asraghuvanshi52/" height="30" width="40" /></a>
-  </p>
+    <div class="github-stats">
+        <div class="stats-container">
+            <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact" alt="asraghuvanshi" />
+        </div>
 
-  <h3 align="left">Languages and Tools:</h3>
-  <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-        alt="android" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"
-      rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-        alt="azure" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-      rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-        width="40" height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> <a
-      href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="html5" width="40" height="40" /> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
-        width="40" height="40" /> </a> <a
-      href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html"
-      target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40"
-        height="40" /> </a> <a href="https://www.postgresql.org" target="_blank"
-      rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-        alt="postgresql" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
-        height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-        width="40" height="40" /> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg"
-        alt="rails" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-        alt="react" width="40" height="40" /> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-        width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-        width="40" height="40" /> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-        src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /> </a> <a
-      href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift"
-        width="40" height="40" /> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img
-        src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-        alt="webpack" width="40" height="40" /> </a> </p>
+        <div class="stats-container">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&locale=en" alt="asraghuvanshi" />
+        </div>
 
-  <p><img align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact"
-      alt="asraghuvanshi" /></p>
-
-  <p>&nbsp;<img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&locale=en"
-      alt="asraghuvanshi" /></p>
-
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&"
-      alt="asraghuvanshi" /></p>
-<!--     <img align="center" src="./as.jpg" alt="asraghuvanshi" /> -->
+        <div class="stats-container">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&" alt="asraghuvanshi" />
+        </div>
+    </div>
 
 </body>
 
