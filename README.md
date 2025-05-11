@@ -20,15 +20,19 @@
   </ul>
 
   <div align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact"
-      alt="Top Languages"
-      width="400"/> <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&locale=en"
-      alt="GitHub Stats"
-      width="400"/> <br/>
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi" alt="GitHub Streak" width="400"/>
+  <p>
+    <img align="left"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact"
+            alt="asraghuvanshi"/>
+  </p>      
+  <p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&locale=en"
+            alt="asraghuvanshi"/>
+  </p>
+    <p>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&"
+            alt="asraghuvanshi"/>
+    </p>
   </div>
 </body>
 </html>
