@@ -42,7 +42,9 @@ I'm a dedicated **iOS developer** with **2.5 years of experience** crafting high
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&theme=dracula&hide_border=true&hide_title=true&count_private=true&card_width=300" alt="GitHub Stats" style="width: 300px; height: 150px; margin: 5px;" />
-150px  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&theme=dracula&hide_border=true&card_width=300" alt="Streak Stats" style="width: 300px; height: 150px; margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&card_width=300" alt="Top Languages" style="width: 300px; height: 150px; margin: 5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&theme=dracula&hide_border=true&card_width=300" alt="Streak Stats" style="width: 300px; height: 150px; margin: 5px;" />
+</div>
 </div>
 
 ---
