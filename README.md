@@ -1,107 +1,94 @@
-# Hi, I'm Amit 👋
+# 👋 Hi, I'm Amit Raghuvanshi
 
 <div align="center">
-  <h2 style="font-family: 'Arial', sans-serif; color: #333; animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;">
-    iOS Developer with 2.5 Years of Experience
-  </h2>
+  <h3 style="color: #2c3e50; font-family: Arial, sans-serif;">iOS Developer with 2.5 Years of Experience | Flutter & Go Enthusiast | Embedded Systems Explorer</h3>
 </div>
 
-<style>
-  @keyframes typing {
-    from { width: 0; }
-    to { width: 100%; }
-  }
-  @keyframes blink-caret {
-    from, to { border-color: transparent; }
-    50% { border-color: #333; }
-  }
-  .typing-text {
-    overflow: hidden;
-    border-right: 0.15em solid #333;
-    white-space: nowrap;
-    display: inline-block;
-    animation: typing 3s steps(40, end), blink-caret 0.75s step-end infinite;
-  }
-  .card {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    margin: 10px 0;
-  }
-  .card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-  }
-  .fade-in {
-    opacity: 0;
-    animation: fadeIn 1s ease-in forwards;
-  }
-  @keyframes fadeIn {
-    to { opacity: 1; }
-  }
-  .skill-chip {
-    display: inline-block;
-    background: linear-gradient(135deg, #6e8efb, #a777e3);
-    color: white;
-    padding: 8px 16px;
-    margin: 5px;
-    border-radius: 20px;
-    transition: transform 0.3s ease;
-  }
-  .skill-chip:hover {
-    transform: translateY(-3px);
-  }
-  .contact-icon {
-    transition: color 0.3s ease;
-  }
-  .contact-icon:hover {
-    color: #6e8efb;
-  }
-</style>
-
-<div align="center" style="margin-bottom: 20px;">
-  <p style="font-size: 1.2em; color: #555; animation: fadeIn 2s ease-in;">
-    Passionate iOS developer with <strong>2.5 years of experience</strong> building robust mobile applications using <strong>Swift</strong> and <strong>UIKit</strong>. Skilled in <strong>Flutter</strong> for cross-platform development and <strong>Go</strong> for backend APIs. Enthusiast of <strong>embedded systems</strong>, exploring Arduino, Raspberry Pi, and microcontrollers.
-  </p>
+<div align="center">
+  <img src="https://your-image-url.com/profile.jpg" alt="Amit Raghuvanshi" style="border-radius: 50%; width: 150px; height: 150px; margin: 10px;" />
 </div>
 
-## 🚀 About Me
-- 🌟 **iOS Development**: 2.5 years crafting high-quality iOS apps with Swift, UIKit, and CoreLocation.
-- 🛠 **Cross-Platform**: Proficient in Flutter for building seamless Android and iOS apps.
-- ⚙️ **Backend**: Experienced in Go for developing RESTful APIs (e.g., using Gin and GORM).
-- 🔌 **Embedded Systems**: Passionate about Arduino, Raspberry Pi, microcontrollers, and IoT projects.
-- 🌱 **Currently Learning**: Deepening expertise in Swift, exploring SwiftUI, and experimenting with embedded systems.
+---
+
+## 🌟 About Me
+
+I'm a passionate **iOS developer** with **2.5 years of experience** building high-performance mobile applications using **Swift** and **UIKit**. My expertise extends to **Flutter** for cross-platform development and **Go** for crafting robust RESTful APIs. I’m deeply fascinated by **embedded systems**, where I experiment with **Arduino**, **Raspberry Pi**, and microcontrollers to create innovative IoT solutions. I thrive on learning new technologies and solving real-world problems through code and hardware.
+
+- 🔧 **Professional Experience**: Developed and shipped 5+ iOS apps, including social platforms and location-based services, with features like real-time data syncing and user authentication.
+- 🚀 **Cross-Platform Skills**: Built seamless Flutter apps for both iOS and Android, focusing on responsive UI and performance optimization.
+- ⚙️ **Backend Development**: Designed RESTful APIs with Go, using frameworks like Gin and GORM for scalable backend services.
+- 🔌 **Embedded Systems**: Created IoT projects, such as a temperature monitoring system using Arduino and Raspberry Pi, integrated with mobile apps.
+- 🌱 **Currently Exploring**: Deepening expertise in **SwiftUI**, experimenting with **GraphQL** APIs, and building advanced embedded systems projects.
+
+---
 
 ## 🛠️ Skills
-<div style="text-align: center;">
-  <span class="skill-chip">Swift</span>
-  <span class="skill-chip">UIKit</span>
-  <span class="skill-chip">Flutter</span>
-  <span class="skill-chip">Go</span>
-  <span class="skill-chip">Arduino</span>
-  <span class="skill-chip">Raspberry Pi</span>
-  <span class="skill-chip">REST APIs</span>
-  <span class="skill-chip">GORM</span>
-  <span class="skill-chip">Git</span>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-5.9-orange?style=flat-square&logo=swift" alt="Swift" />
+  <img src="https://img.shields.io/badge/UIKit-%23000000?style=flat-square&logo=apple" alt="UIKit" />
+  <img src="https://img.shields.io/badge/Flutter-3.16-blue?style=flat-square&logo=flutter" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Go-1.21-teal?style=flat-square&logo=go" alt="Go" />
+  <img src="https://img.shields.io/badge/Arduino-2.3-red?style=flat-square&logo=arduino" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-4-red?style=flat-square&logo=raspberry-pi" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/REST%20APIs-%23000000?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/GORM-%2300ADD8?style=flat-square" alt="GORM" />
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git" alt="Git" />
 </div>
+
+---
+
+## 💼 Key Projects
+
+- **SwiftGem Social App** [](https://github.com/asraghuvanshi/swiftgem-app)  
+  A social platform built with **Swift/UIKit** and a **Go** backend. Features include location-based post filtering, pagination, and JWT-based authentication. Integrated CoreLocation for real-time user location display.  
+  *Technologies*: Swift, UIKit, CoreLocation, Go, Gin, GORM, PostgreSQL.
+
+- **Flutter E-Commerce App** [](https://github.com/asraghuvanshi/flutter-ecommerce)  
+  A cross-platform e-commerce app with responsive UI, payment integration, and push notifications. Deployed on iOS and Android.  
+  *Technologies*: Flutter, Dart, Firebase.
+
+- **Arduino IoT Sensor** [](https://github.com/asraghuvanshi/arduino-iot)  
+  A temperature and humidity monitoring system using Arduino and Raspberry Pi, with data visualization via a Flutter app.  
+  *Technologies*: Arduino, Raspberry Pi, C++, Flutter, MQTT.
+
+---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img class="card fade-in" style="animation-delay: 0.5s;" src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img class="card fade-in" style="animation-delay: 0.7s;" src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-  <img class="card fade-in" style="animation-delay: 0.9s;" src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" style="margin: 10px; width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="margin: 10px; width: 100%; max-width: 500px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&theme=dracula&hide_border=true" alt="Streak Stats" style="margin: 10px; width: 100%; max-width: 500px;" />
 </div>
 
-## 📫 Get in Touch
-<div align="center" style="margin-top: 20px;">
-  <p>
-    <a href="mailto:asraghuvanshi52@gmail.com" class="contact-icon" style="text-decoration: none; color: #333; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Email-asraghuvanshi52%40gmail.com-red" alt="Email" />
-    </a>
-    <a href="https://github.com/asraghuvanshi" class="contact-icon" style="text-decoration: none; color: #333; margin: 0 10px;">
-      <img src="https://img.shields.io/badge/GitHub-asraghuvanshi-black" alt="GitHub" />
-    </a>
-  </p>
+---
+
+## 🏆 Achievements
+
+- **Published 5 iOS Apps**: Successfully launched apps on the App Store, including a location-based social platform with 1,000+ downloads.
+- **Open-Source Contributor**: Contributed to Flutter and Go projects, fixing bugs and adding features.
+- **Hackathon Winner**: Won a local IoT hackathon with an Arduino-based smart home solution.
+- **Certified**: Completed certifications in Swift (HackerRank) and Flutter (Udemy).
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="mailto:asraghuvanshi52@gmail.com" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-asraghuvanshi52%40gmail.com-red?style=flat-square&logo=gmail" alt="Email" />
+  </a>
+  <a href="https://github.com/asraghuvanshi" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-asraghuvanshi-black?style=flat-square&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/asraghuvanshi" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-Amit%20Raghuvanshi-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
 </div>
 
-<div align="center" style="margin-top: 20px; font-size: 0.9em; color: #777;">
+---
+
+<div align="center" style="color: #777; font-size: 0.9em; margin-top: 20px;">
   <p>Built with ❤️ by Amit Raghuvanshi</p>
 </div>
