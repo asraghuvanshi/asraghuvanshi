@@ -41,9 +41,8 @@ I'm a dedicated **iOS developer** with **2.5 years of experience** crafting high
 ## 📊 GitHub Stats
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&theme=dracula&hide_border=true&hide_title=true&count_private=true&card_width=300" alt="GitHub Stats" style="width: 300px; height: 120px; margin: 5px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&card_width=300" alt="Top Languages" style="width: 300px; height: 120px; margin: 5px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&theme=dracula&hide_border=true&card_width=300" alt="Streak Stats" style="width: 300px; height: 120px; margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&theme=dracula&hide_border=true&hide_title=true&count_private=true&card_width=300" alt="GitHub Stats" style="width: 300px; height: 150px; margin: 5px;" />
+150px  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&theme=dracula&hide_border=true&card_width=300" alt="Streak Stats" style="width: 300px; height: 150px; margin: 5px;" />
 </div>
 
 ---
@@ -57,7 +56,7 @@ I'm a dedicated **iOS developer** with **2.5 years of experience** crafting high
   <a href="https://github.com/asraghuvanshi" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/GitHub-asraghuvanshi-black?style=flat-square&logo=github" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/asraghuvanshi" style="text-decoration: none; margin: 0 10px;">
+  <a href="https://linkedin.com/in/asraghuvanshi52" style="text-decoration: none; margin: 0 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-Amit%20Raghuvanshi-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </div>
