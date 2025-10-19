@@ -12,13 +12,13 @@
 
 ## 🌟 About Me
 
-I'm a passionate **iOS developer** with **2.5 years of experience** building high-performance mobile applications using **Swift** and **UIKit**. My expertise extends to **Flutter** for cross-platform development and **Go** for crafting robust RESTful APIs. I’m deeply fascinated by **embedded systems**, where I experiment with **Arduino**, **Raspberry Pi**, and microcontrollers to create innovative IoT solutions. I thrive on learning new technologies and solving real-world problems through code and hardware.
+I'm a dedicated **iOS developer** with **2.5 years of experience** crafting high-performance mobile applications using **Swift** and **UIKit**. My skill set extends to **Flutter** for building seamless cross-platform apps and **Go** for developing robust RESTful APIs. I'm deeply passionate about **embedded systems**, where I explore **Arduino**, **Raspberry Pi**, and microcontrollers to create innovative IoT solutions. I thrive on learning cutting-edge technologies and solving real-world challenges through code and hardware.
 
-- 🔧 **Professional Experience**: Developed and shipped 5+ iOS apps, including social platforms and location-based services, with features like real-time data syncing and user authentication.
-- 🚀 **Cross-Platform Skills**: Built seamless Flutter apps for both iOS and Android, focusing on responsive UI and performance optimization.
-- ⚙️ **Backend Development**: Designed RESTful APIs with Go, using frameworks like Gin and GORM for scalable backend services.
-- 🔌 **Embedded Systems**: Created IoT projects, such as a temperature monitoring system using Arduino and Raspberry Pi, integrated with mobile apps.
-- 🌱 **Currently Exploring**: Deepening expertise in **SwiftUI**, experimenting with **GraphQL** APIs, and building advanced embedded systems projects.
+- **Professional Experience**: Developed and shipped 5+ iOS apps, including social platforms and location-based services, with features like real-time data syncing, user authentication, and dynamic filtering.
+- **Cross-Platform Expertise**: Built responsive Flutter apps for iOS and Android, focusing on performance optimization and intuitive UI/UX.
+- **Backend Development**: Designed scalable RESTful APIs with Go, leveraging frameworks like Gin and GORM for efficient backend services.
+- **Embedded Systems Passion**: Created IoT projects, such as temperature monitoring systems, integrating Arduino and Raspberry Pi with mobile apps.
+- **Currently Exploring**: Advancing skills in **SwiftUI**, experimenting with **GraphQL** APIs, and building innovative embedded systems projects.
 
 ---
 
@@ -38,38 +38,13 @@ I'm a passionate **iOS developer** with **2.5 years of experience** building hig
 
 ---
 
-## 💼 Key Projects
-
-- **SwiftGem Social App** [](https://github.com/asraghuvanshi/swiftgem-app)  
-  A social platform built with **Swift/UIKit** and a **Go** backend. Features include location-based post filtering, pagination, and JWT-based authentication. Integrated CoreLocation for real-time user location display.  
-  *Technologies*: Swift, UIKit, CoreLocation, Go, Gin, GORM, PostgreSQL.
-
-- **Flutter E-Commerce App** [](https://github.com/asraghuvanshi/flutter-ecommerce)  
-  A cross-platform e-commerce app with responsive UI, payment integration, and push notifications. Deployed on iOS and Android.  
-  *Technologies*: Flutter, Dart, Firebase.
-
-- **Arduino IoT Sensor** [](https://github.com/asraghuvanshi/arduino-iot)  
-  A temperature and humidity monitoring system using Arduino and Raspberry Pi, with data visualization via a Flutter app.  
-  *Technologies*: Arduino, Raspberry Pi, C++, Flutter, MQTT.
-
----
-
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" style="margin: 10px; width: 100%; max-width: 500px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" style="margin: 10px; width: 100%; max-width: 500px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&theme=dracula&hide_border=true" alt="Streak Stats" style="margin: 10px; width: 100%; max-width: 500px;" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=asraghuvanshi&show_icons=true&theme=dracula&hide_border=true&hide_title=true&count_private=true&card_width=300" alt="GitHub Stats" style="width: 300px; height: 120px; margin: 5px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=asraghuvanshi&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=true&card_width=300" alt="Top Languages" style="width: 300px; height: 120px; margin: 5px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asraghuvanshi&theme=dracula&hide_border=true&card_width=300" alt="Streak Stats" style="width: 300px; height: 120px; margin: 5px;" />
 </div>
-
----
-
-## 🏆 Achievements
-
-- **Published 5 iOS Apps**: Successfully launched apps on the App Store, including a location-based social platform with 1,000+ downloads.
-- **Open-Source Contributor**: Contributed to Flutter and Go projects, fixing bugs and adding features.
-- **Hackathon Winner**: Won a local IoT hackathon with an Arduino-based smart home solution.
-- **Certified**: Completed certifications in Swift (HackerRank) and Flutter (Udemy).
 
 ---
 
