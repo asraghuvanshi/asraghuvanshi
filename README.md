@@ -20,23 +20,7 @@
   iOS Developer with 2.5 Years of Experience | Flutter & Go Enthusiast | Embedded Systems Explorer
 </p>
 
-<a href="https://linkedin.com/in/asraghuvanshi52" target="_blank">
-  <img 
-    src="https://drive.google.com/uc?export=view&id=1B-nQ7hwyxuhkM469GSCIyk57URkqbMX2" 
-    alt="Amit Raghuvanshi"
-    style="
-      width: 200px;
-      height: 200px;
-      border-radius: 50%;
-      object-fit: cover;
-      border: 6px solid #fff;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
-      transition: all 0.3s ease;
-    "
-    onmouseover="this.style.transform='scale(1.08)'; this.style.boxShadow='0 15px 40px rgba(0,0,0,0.3)'"
-    onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 30px rgba(0,0,0,0.2)'"
-  />
-</a>
+
 
 <br><br>
 
@@ -45,7 +29,6 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
 <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C"/>
-
 <br><br>
 
 <!-- Social Links -->
